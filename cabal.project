@@ -1,0 +1,5 @@
+packages:
+  *.cabal
+  ../liquidhaskell/liquid-fixpoint
+  ../liquidhaskell/prover
+  ../liquidhaskell
